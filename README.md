@@ -1,7 +1,7 @@
 
 # Tugas Program KomNum
 
-**NRP:** 5025241230
+**NRP:** 5025241230\n
 **Nama:** Mohammad Najib Bahrudin
 
 ### Rumus Metode Secant  
